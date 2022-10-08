@@ -1,8 +1,9 @@
 # projeto-image-slider
 
+<h1> Projeto-image-slider</>
 
-<h1> De onde surgiu a ideia?</>
+<p>O projeto não requer nenhum pré-requisito para sua visualização.</p>
 
+<h2>De onde surgiu a ideia?</h2>
 
-
-<p>A ideia surgiu da curiosidade sobre os recursos de HTML, CSS E Javascript para a construção de um carrossel de fotos.</>
+<p>De uma demanda real, a necessidade de aprender conceitos de HTML e CSS. Pesquisei sobre projetos para iniciantes de Front-End e encontrei a sugestão de cosntruir um carrossel de fotos. Inicialmente, a intenção era fazer apenas com HTM e CSS, mas não estava dando certo, mesmo após inúmeras pesquisas e tentativas. Pedi ajuda para um amigo e ele achou necessário implementar Javascript para que a funcionalidade do carrossel acontecesse.
