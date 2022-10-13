@@ -1,7 +1,7 @@
 # projeto-image-slider
 
 
-<h1> Projeto curso-inglês-mobile</>
+<h1> projeto-image-slider</>
 
   ![readme 3](https://user-images.githubusercontent.com/114086320/195470020-171b1312-6ef8-407b-a32b-52203e2826b2.png)
 
@@ -24,8 +24,8 @@
   <h2>Aprendizados</h2>
   
   <li>Link para utilização do "swiper" no CSS.
-  <li>Aplicação da estilização por meio dos recursos do CSS: "list-style-type", "flex-wrap" e "oveflow-x".</li>
-  <li>Criação de arquivo js na apsta do projeto.</li>
+  <li>Aplicação da estilização por meio dos recursos do CSS: "list-style-type", "flex-wrap" e "overflow-x".</li>
+  <li>Criação de arquivo js na pasta do projeto.</li>
   <li>Aplicação de listas com as tags "ul" e "li".</li>
   <li>Aplicação do recurso "swiper", do Javascript, para visualização das fotos no carrossel.</li>
 
