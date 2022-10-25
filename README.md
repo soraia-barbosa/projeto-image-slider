@@ -27,10 +27,10 @@
   <li>Aplicação da estilização por meio dos recursos do CSS: "list-style-type", "flex-wrap" e "overflow-x".</li>
   <li>Criação de arquivo js na pasta do projeto.</li>
   <li>Aplicação de listas com as tags "ul" e "li".</li>
-  <li>Aplicação do recurso "swiper", do Javascript, para visualização das fotos no carrossel.</li>
+  <li>Aplicação do recurso "swiper", do JavaScript, para visualização das fotos no carrossel.</li>
 
 
 
 <h2>De onde surgiu a ideia?</h2>
 
-<p>De uma demanda real, a necessidade de aprender conceitos de HTML5 e CSS3. Pesquisei sobre projetos para iniciantes de Front-End e encontrei a sugestão de construir um carrossel de fotos. Inicialmente, a intenção era fazer apenas com HTM e CSS, mas não estava dando certo, mesmo após inúmeras pesquisas e tentativas. Pedi ajuda para um amigo e ele achou necessário implementar Javascript para que a funcionalidade do carrossel acontecesse.
+<p>De uma demanda real, a necessidade de aprender conceitos de HTML5 e CSS3. Pesquisei sobre projetos para iniciantes de Front-End e encontrei a sugestão de construir um carrossel de fotos. Inicialmente, a intenção era fazer apenas com HTM e CSS, mas não estava dando certo, mesmo após inúmeras pesquisas e tentativas. Pedi ajuda para um amigo e ele achou necessário implementar JavaScript para que a funcionalidade do carrossel acontecesse.
