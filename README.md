@@ -28,6 +28,7 @@
   <li>Criação de arquivo js na pasta do projeto.</li>
   <li>Aplicação de listas com as tags "ul" e "li".</li>
   <li>Aplicação do recurso "swiper", do JavaScript, para visualização das fotos no carrossel.</li>
+  <li>Organização dos arquivos em pastas no Github.
 
 
 
